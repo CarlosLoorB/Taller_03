@@ -1,11 +1,11 @@
 package LSP;
 
-public class Palomas_LSP {
+public class Palomas {
 	public piernas patas;
     public alas alas;
     public pico pico;
 
-    public Palomas_LSP(piernas patas, alas alas, pico pico) {
+    public Palomas(piernas patas, alas alas, pico pico) {
         this.patas = patas;
         this.alas = alas;
         this.pico = pico;

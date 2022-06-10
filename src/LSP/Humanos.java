@@ -1,11 +1,11 @@
 package LSP;
 
-public class Humanos_LSP {
+public class Humanos {
     public piernas piernas;
     public brazos brazos;
     public personalidad personalidad;
 
-    public Humanos_LSP(piernas piernas, brazos brazos, personalidad personalidad) {
+    public Humanos(piernas piernas, brazos brazos, personalidad personalidad) {
         this.piernas = piernas;
         this.brazos = brazos;
         this.personalidad = personalidad;
