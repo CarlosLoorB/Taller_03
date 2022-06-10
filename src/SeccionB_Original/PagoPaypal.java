@@ -1,4 +1,4 @@
-package SeccionB_original;
+package SeccionB_Original;
 
 public class PagoPaypal extends Pago {
 	private boolean loggedin;
