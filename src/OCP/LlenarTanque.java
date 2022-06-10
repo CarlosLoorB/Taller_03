@@ -2,6 +2,6 @@ package OCP;
 
 import SRP.Carro;
 
-public interface LlenarTanque_OCP {
+public interface LlenarTanque {
 	public int precioTanqueLLeno(Carro carro);
 }

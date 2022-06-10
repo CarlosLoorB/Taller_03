@@ -2,15 +2,14 @@ package OCP;
 
 import SRP.Carro;
 
-public class LlenarTanqueExtra_OCP {
+public class LlenarTanqueSuper {
     private Carro carro;
 
-    public LlenarTanqueExtra_OCP(Carro carro) {
+    public LlenarTanqueSuper(Carro carro) {
         this.carro = carro;
     }
     
     public int precioTanqueLLeno(Carro carro){
-        //se calcula el precio del tanque lleno con extra 
+        //se calcula el precio del tanque lleno con super 
     }
-
 }
