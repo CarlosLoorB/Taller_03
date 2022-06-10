@@ -9,7 +9,6 @@ public class CajeroPincipal implements RetirarDinero , DepositarDinero {
 
 	@Override
 	public int RetiraDinero(Dinero d) {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 	
