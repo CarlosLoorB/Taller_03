@@ -1,10 +1,10 @@
 package SRP;
 
-public class Conductor {
+public class Movimiento {
   private String nombre;
   private String apellido;
   // constructor
-  public Conductor(String nombre, String apellido) {
+  public Movimiento(String nombre, String apellido) {
     this.nombre = nombre;
     this.apellido = apellido;
   }
