@@ -1,4 +1,4 @@
-package Taller02;
+package LSP;
 
 public class Palomas_LSP {
 	public piernas patas;

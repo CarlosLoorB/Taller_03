@@ -1,4 +1,4 @@
-package Taller02;
+package LSP;
 
 public class Humanos_LSP {
     public piernas piernas;
@@ -12,11 +12,11 @@ public class Humanos_LSP {
     }
 
     public void caminar(){
-        // se camina
+        // camina
     }
     
     public void correr(){
-        // se corre 
+        // corre 
     }
     
     public void saludar(){

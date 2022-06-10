@@ -1,4 +1,4 @@
-package Taller02;
+package LSP;
 
 public interface Bipedos_LSP {
 
