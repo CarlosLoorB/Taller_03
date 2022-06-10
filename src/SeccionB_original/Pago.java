@@ -1,4 +1,4 @@
-package SeccionB;
+package SeccionB_original;
 
 public class Pago {
   public void realizarCobro(double monto){
