@@ -1,14 +1,16 @@
 package SeccionB;
 
 public class PagoPaypal extends Pago {
-  private boolean loggedin;
-  @Override
-  public void realizarCobro(double monto){
+	private boolean loggedin;
 
-    if(!loggedin){
-      return;
-  }else{
-    // cargar el monto de compra al medio de pago
-  }
+	@Override
+	public void realizarCobro(double monto) {
 
+		if (!loggedin) {
+			return;
+		} else {
+			// cargar el monto de compra al medio de pago
+		}
+
+	}
 }
